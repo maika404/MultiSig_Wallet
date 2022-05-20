@@ -1,0 +1,36 @@
+{
+  "contracts": {
+    "MultiSigWallet": "3b0a3f96dbe86fbb2dd894dee50bc9cdf91f572a"
+  },
+  "tests": {
+    "tests/test_multisig.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "......",
+      "sha1": "337811d625e4019876487951ecd986bcd0245969",
+      "txhash": [
+        "d201e65fc37c4fda8dfcba88b25cbd7284d179ba"
+      ]
+    }
+  },
+  "tx": {
+    "d201e65fc37c4fda8dfcba88b25cbd7284d179ba": {
+      "MultiSigWallet": {
+        "0": [
+          [
+            7,
+            14,
+            15
+          ],
+          [
+            17,
+            21
+          ],
+          [
+            21
+          ]
+        ]
+      }
+    }
+  }
+}
